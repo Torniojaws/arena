@@ -1,0 +1,4 @@
+Skeleton
+Zombie
+Gargoyle
+Werewolf
